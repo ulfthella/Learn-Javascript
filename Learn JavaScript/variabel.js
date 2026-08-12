@@ -1,6 +1,6 @@
 /* run time untuk melihat output kode */
 
-const myName = 'Dilla';
+const myName = 'kkk';
 
 console.log(myName);
 console.log(myName);
