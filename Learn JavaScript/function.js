@@ -1,18 +1,18 @@
 /* materi */
 function sayHappyBirthday(name, age) {
-    console.log('Selamat Ulang Tahun ke ' + age + ', ' + name);
+    console.log('yow' + age + ', ' + name);
 };
 
-sayHappyBirthday('ulf_thella', 18);  /* cara memanggil function*/
+sayHappyBirthday('ulf', 18);  /* cara memanggil function*/
 sayHappyBirthday('black kwit', 18); 
-sayHappyBirthday('johans.gara', 25); 
+sayHappyBirthday('jh', 25); 
 
 const batas = '-------------------';
 console.log(batas);
 
 /* challenge */
 function sayName() {
-    console.log('ulf_thella');
+    console.log('ulf');
 };
 
 sayName();
