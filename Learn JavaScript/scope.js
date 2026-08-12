@@ -1,6 +1,6 @@
 /* materi */
-const firstName = 'nur';
-const lastName = 'fadillah';
+const firstName = 'kk';
+const lastName = 'f';
 
 function getFullName(firstName, lastName) {
     const fullName = firstName + lastName;
