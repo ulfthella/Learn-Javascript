@@ -2,9 +2,9 @@
 /* run time untuk melihat output kode */
 
 const person = {
-    name : 'dilla',
-    age : 18,
-    dateOfBirth : 2007,
+    name : 'dkk',
+    age : 28,
+    dateOfBirth : 2067,
     isEmployed : false
  };
 
