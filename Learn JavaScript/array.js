@@ -13,7 +13,7 @@ console.log (text);
 console.log (batas);
 
 /* includes() digunakan mengecek data (mengembalikan nilai boolean)  */
-const newUsername = 'dilla';
+const newUsername = 'dkk';
 const isTaken = usn.includes(newUsername);
 
 if (isTaken){
